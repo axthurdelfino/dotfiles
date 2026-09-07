@@ -29,6 +29,7 @@
           ripgrep
           fd
           jq
+          pkgs.dotnet-sdk_10
         ];
       };
 
